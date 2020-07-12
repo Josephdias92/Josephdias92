@@ -11,5 +11,6 @@
 
 
 ## Find me around the web 🌎:
-- Tinkering with interactions on <a href="https://codepen.io/josephdias92"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/joseph-dias-5897523a/">LinkedIn</a> 💼
+- Showcasing skills on <a href="https://codepen.io/josephdias92">Codepen</a> 🏓
+- Sharing updates on <a href="https://twitter.com/joeykdias">Twitter</a> 💼
+
