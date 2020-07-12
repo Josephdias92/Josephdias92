@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Joseph 👋🏾 
 
-<!--
-**Josephdias92/josephdias92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://raw.githubusercontent.com/Josephdias92/Josephdias92/master/programmer.png" alt="Joseph Dias - software engineer">
 
-Here are some ideas to get you started:
+- A strong interest in learning new technologies and an eye for detail.
+- Good project management skills. Innovative thinking.
+- Good problem solving capabilities.
+- Be sharp and Patience in understanding the problems and issues.
+- Understand software applications.
+- A positive “can do” attitude to overcoming issues
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Find me around the web 🌎:
+- Tinkering with interactions on <a href="https://codepen.io/josephdias92"> Codepen</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/joseph-dias-5897523a/">LinkedIn</a> 💼
